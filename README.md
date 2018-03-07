@@ -1,3 +1,5 @@
+<This is a fork of the original repository at https://github.com/Andrew-Crosio/django-queryset-iterator>
+
 Queryset Iterator ReadMe
 ========================
 
